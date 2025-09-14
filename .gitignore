@@ -1,5 +1,0 @@
-# Archivos de entorno que contienen credenciales y datos sensibles
-.env
-
-# Directorio del entorno virtual de Python
-venv/
